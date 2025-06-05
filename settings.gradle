@@ -1,1 +1,3 @@
+rootProject.name = "LibRtmp-Client-for-Android"
+
 include ':rtmp-client', ':test'
